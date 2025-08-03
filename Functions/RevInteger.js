@@ -16,6 +16,6 @@ function ReverseInteger(n) {
     return ncopy<0? -rev : rev
     
 }
-let num = -956;
+let num = -956897;
 let res = ReverseInteger(num);
 console.log(res);
