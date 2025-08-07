@@ -3,7 +3,7 @@ arr.sort();
 let i = 0;
 let m=5
 let diff= Infinity
-j = i + (m - 1);
+let j = i + (m - 1);
 while (j < arr.length) {
     if (arr[j] - arr[i] < diff) {
         diff = arr[j] - arr[i];
