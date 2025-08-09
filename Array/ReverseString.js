@@ -14,7 +14,7 @@ function reverseString(s) {
     return s
 
 }
-let s = ["h","e","l","l","o"]
+let s = ["h","e","l","p","o"]
 let res = reverseString(s)
 console.log(res)
     
