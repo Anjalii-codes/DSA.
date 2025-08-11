@@ -1,4 +1,4 @@
-let arr = [2, 0, 9, 3, 5,  1];
+let arr = [2, 0, 6, 3, 5,  1];
 let min;
 let max;
 let i;
