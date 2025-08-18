@@ -12,5 +12,5 @@ function Remove_Element(nums, val) {
     return c
     
 };
-let result1 = Remove_Element([2,2,2,2,3,2],2)    
+let result1 = Remove_Element([2,2,1,2,3,2],2)    
 console.log(result1)
